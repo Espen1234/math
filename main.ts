@@ -6,6 +6,7 @@ input.onButtonPressed(Button.A, function () {
     power = num ** 2
     random = 0
     basic.showNumber(random)
+    basic.showNumber(0)
 })
 let random = 0
 let power = 0
